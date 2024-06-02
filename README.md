@@ -1,4 +1,3 @@
-SecureNoteKeeper
 SecureNoteKeeper, kullanıcıların güvenli bir şekilde not tutmasına olanak tanıyan bir Kotlin uygulamasıdır. Kullanıcılar, ilk girişlerinde kullanıcı adı ve şifre belirleyerek notlarını güvence altına alırlar. Uygulama kapatılıp yeniden açıldığında, kullanıcı adı ve şifre ile tekrar giriş yapılması gerekmektedir. Bu uygulama, not ekleme, düzenleme, listeleme, arama ve silme özelliklerini içermektedir.
 
 Özellikler:
